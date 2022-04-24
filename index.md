@@ -17,4 +17,6 @@ let second = 20;
 console.log("First + Second: ", (first + second));
 ```
 
+Click [here](https://t-o-t-n.github.io/totn-concepts/concepts/1-hello-world) to go to the concepts page, where you can find the list of concepts!
+
 #### Made with ❤️ by TOTN
